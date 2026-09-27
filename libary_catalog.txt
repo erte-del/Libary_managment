@@ -1,0 +1,11 @@
+001,    The Great Gatsby,  F. Scott Fitzgerald,         Fiction,                7,       7
+002,    Introduction to Python,     John Smith,         Non-Fiction,            12,      12
+003,    To Kill a Mockingbird,      Harper Lee,         Fiction,                3,       3
+004,    1984,                       George Orwell,      Fiction,                14,      14
+005,    A Brief History of Time,    Stephen Hawking,    Non-Fiction,            5,       5
+006,    Pride and Prejudice,        Jane Austen,        Fiction,                9,       9
+007,    Sapiens,                    Yuval Noah Harari,  Non-Fiction,            1,      1
+008,    The Hobbit,                 J.R.R. Tolkien,     Fantasy,                11,     11
+009,    Clean Code,                 Robert C. Martin,   Non-Fiction,            6,      6
+010,    Dune,                       Frank Herbert,      Science Fiction,        13,     13
+
